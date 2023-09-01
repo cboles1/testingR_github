@@ -3,15 +3,15 @@
 
 <!-- badges: end -->
 
-The goal of somepackage is to ...
+The goal of this project is to simply provide a testbed for a) R and GitHub integration and b) documentation practice. 
 
 ## Installation
 
-You can install the development version of somepackage from [GitHub](https://github.com/) with:
+You can install the development version of testingR_github from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("jane/somepackage")
+devtools::install_github("cboles1/testingR_github")
 ```
 
 ## Example
